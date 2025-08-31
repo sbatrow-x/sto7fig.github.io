@@ -63,6 +63,7 @@ const swipe2 = new Swiper('.comparison-first', {
 const swipe1 = new Swiper('.slider-first', {
   slidesPerView: "auto",
   loop: true,
+  slidesPerView: 1,
   spaceBetween: 20,
   speed: 400,
   navigation: {
