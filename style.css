@@ -2509,13 +2509,13 @@ img {
 .for_the_lines {
   filter: blur(20px);
   background-color: #68cdff;
-  background-image: linear-gradient(#3d51ff, #fff 50%, #3d51ff);
+  background-image: linear-gradient(#2d1746, #afb2c6 50%, #2d1746);
   width: 100px;
   height: 900%;
 }
 
 .for_the_lines.different {
-  background-image: linear-gradient(#3d51ff, #fff 50%, #3d51ff);
+  background-image: linear-gradient(#2d1746, #afb2c6 50%, #2d1746);
 }
 
 .shadow_absolute_background_holder {
@@ -2540,7 +2540,7 @@ img {
 .for_the_shadow {
   filter: blur(30px);
   background-color: #68cdff;
-  background-image: linear-gradient(#55159c, #6a2697 50%, #55159c);
+  background-image: linear-gradient(#2d1746, #611d8f 50%, #2d1746);
   width: 300px;
   height: 900%;
 }
