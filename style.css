@@ -2509,13 +2509,13 @@ img {
 .for_the_lines {
   filter: blur(20px);
   background-color: #68cdff;
-  background-image: linear-gradient(#2d1746, #afb2c6 50%, #2d1746);
+  background-image: linear-gradient(#7e42a5, #afb2c6 50%, #895fb9);
   width: 100px;
   height: 900%;
 }
 
 .for_the_lines.different {
-  background-image: linear-gradient(#2d1746, #afb2c6 50%, #2d1746);
+  background-image: linear-gradient(#7e42a5, #afb2c6 50%, #895fb9);
 }
 
 .shadow_absolute_background_holder {
@@ -2540,7 +2540,7 @@ img {
 .for_the_shadow {
   filter: blur(30px);
   background-color: #68cdff;
-  background-image: linear-gradient(#2d1746, #611d8f 50%, #2d1746);
+  background-image: linear-gradient(#7e42a5, #5f3c76 50%, #895fb9);
   width: 300px;
   height: 900%;
 }
@@ -2780,9 +2780,9 @@ img {
 }
 
 .arrow {
-  filter: drop-shadow(0 0 5px #2c49ff);
+  filter: drop-shadow(0 0 5px #7e42a5);
   pointer-events: auto;
-  color: #2c49ff;
+  color: #7e42a5;
   cursor: pointer;
   width: 16px;
   display: flex;
@@ -2876,7 +2876,7 @@ img {
 .box-views-wrapper {
   z-index: 1;
   pointer-events: none;
-  background-image: linear-gradient(135deg, #202476, #5e69be);
+  background-image: linear-gradient(135deg, #7e42a5, #5e69be);
   border-radius: 100px;
   padding: 2px;
   position: absolute;
