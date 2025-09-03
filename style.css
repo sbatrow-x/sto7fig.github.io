@@ -20,7 +20,7 @@
   max-height: 90vh;
   border-radius: 10px;
   box-shadow: 0 4px 32px rgba(0,0,0,0.5);
-  background: #fff;
+  background: #000000;
   object-fit: contain;
 }
 .img-popup-close {
