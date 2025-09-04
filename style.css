@@ -1857,7 +1857,7 @@ textarea.w-input, textarea.w-select {
 
 .w-nav {
   z-index: 1000;
-  background: #ddd;
+  background: #000000;
   position: relative;
 }
 
@@ -1901,7 +1901,7 @@ textarea.w-input, textarea.w-select {
 
 [data-nav-menu-open] {
   text-align: center;
-  background: #c8c8c8;
+  background: #000000;
   min-width: 200px;
   position: absolute;
   top: 100%;
@@ -1969,7 +1969,7 @@ textarea.w-input, textarea.w-select {
 
 .w-nav-button.w--open {
   color: #fff;
-  background-color: #c8c8c8;
+  background-color: #000000;
 }
 
 .w-nav[data-collapse="all"] .w-nav-menu {
