@@ -1,3 +1,8 @@
+/* Force browser theme color override */
+html {
+  background-color: #333333 !important;
+}
+
 /* Image Popup Modal Styles */
 .img-popup-modal {
   display: none;
@@ -46,7 +51,7 @@
   border-style: none;
 }
 ::-webkit-scrollbar-thumb {
-  background: #7e42a5;
+  background: #333333;
   border-width: 3px;
   border-style: none;
   border-radius: 100px;
