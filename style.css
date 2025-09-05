@@ -46,7 +46,7 @@
   border-style: none;
 }
 ::-webkit-scrollbar-thumb {
-  background: #09249D;
+  background: #7e42a5;
   border-width: 3px;
   border-style: none;
   border-radius: 100px;
@@ -2725,7 +2725,7 @@ img {
 }
 
 .line-top-section {
-  background-image: linear-gradient(90deg, #09249d, #8373ff);
+  background-image: linear-gradient(90deg, #283fa6, #8373ff);
   border-radius: 12px;
   width: 344px;
   height: 8px;
