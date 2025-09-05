@@ -1,0 +1,16 @@
+{
+  "name": "Swing To 7 Figures - Trading Signals",
+  "short_name": "SwingTo7Figures",
+  "description": "High-quality trading signals that pay for themselves instantly",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#09249D",
+  "icons": [
+    {
+      "src": "blogo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
